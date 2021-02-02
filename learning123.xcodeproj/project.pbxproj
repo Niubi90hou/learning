@@ -52,6 +52,10 @@
 		71C3EC0A25C9E641004E4B1C /* learning123 */ = {
 			isa = PBXGroup;
 			children = (
+				71C3EC1E25C9E93D004E4B1C /* Services */,
+				71C3EC1D25C9E936004E4B1C /* Models */,
+				71C3EC1C25C9E92B004E4B1C /* ViewModels */,
+				71C3EC1B25C9E927004E4B1C /* Data */,
 				71C3EC0B25C9E641004E4B1C /* learning123App.swift */,
 				71C3EC0D25C9E641004E4B1C /* ContentView.swift */,
 				71C3EC0F25C9E642004E4B1C /* Assets.xcassets */,
@@ -67,6 +71,34 @@
 				71C3EC1225C9E642004E4B1C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		71C3EC1B25C9E927004E4B1C /* Data */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		71C3EC1C25C9E92B004E4B1C /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		71C3EC1D25C9E936004E4B1C /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		71C3EC1E25C9E93D004E4B1C /* Services */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Services;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
